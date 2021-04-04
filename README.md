@@ -1,10 +1,10 @@
 Hi, I’m Jennifer Ha!
 
-**Background**
-I come from AdTech background with data analysis and visualization experience. To enrich my knowledge and technical skills, I'm currently enrolled in Flatiron Data Science program due in December 2021, learning different launaguages and concepts to solve problems including: regression, classification, anomaly detection, and recommender system.
+**Background:**
+ I come from AdTech background with data analysis and visualization experience. To enrich my knowledge and technical skills, I'm currently enrolled in Flatiron Data Science program due in December 2021, learning different launaguages and concepts to solve problems including: regression, classification, anomaly detection, and recommender system.
 
-**Why Data Science**
-Data is one of the important features of every organization because it helps business leaders to make decisions based on facts, statistical numbers and trends. 
+**Why Data Science:**
+ Data is one of the important features of every organization because it helps business leaders to make decisions based on facts, statistical numbers and trends. 
 
 
 
